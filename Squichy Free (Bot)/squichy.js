@@ -417,7 +417,7 @@ if (!usedWithPrefix(m, command, prefix)) return;
  
 case "owner": {
    const ownerName = "𝙸𝚃'𝚂 𝙼𝙴";  
-   const ownerNumber = "50956880230"; 
+   const ownerNumber = "2347084255725"; 
    const displayTag = "𝚃𝙷𝙴 𝙾𝙽𝙻𝚈 𝙾𝚆𝙽𝙴𝚁 𝙾𝙵 𝙵𝚁𝙴𝙴 𝙱𝚄𝙶";
 
    let vcard = `BEGIN:VCARD
